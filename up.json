@@ -1,0 +1,12 @@
+{
+  "name": "wadiwasi",
+  "profile": "personal",
+  "regions": [
+    "ap-southeast-1"
+  ],
+  "stages": {
+    "staging": {
+      "domain": "wadiwasi.penzur.xyz"
+    }
+  }
+}
